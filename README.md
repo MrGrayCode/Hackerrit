@@ -8,4 +8,4 @@ This repository is of the online coding contest website.
 
 *<b>changes are to be made!</b>
 
-<a href="http://definetests.tk/rit" target="_blank">Click here for demo page</a>
+<a href="http://definetests.tk/rit"  rel="noopener noreferrer"  target="_blank">Click here for demo page</a>
