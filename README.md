@@ -6,4 +6,6 @@ This repository is of the online coding contest website.
    <li>Added Login+Register Page</li>
 </ul>
 
-*changes are to be made!
+*<b>changes are to be made!</b>
+
+<a href="http://definetests.tk/rit" target="_blank">Click here for demo page</a>
